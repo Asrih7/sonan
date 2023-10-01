@@ -1,0 +1,216 @@
+/* Empty. Add your own CSS if you like */
+
+
+/*.bar-stable{*/
+
+
+/*padding-top:40px;*/
+
+
+/*}*/
+
+/*.image-fav {
+  background-image: url(www/img/mohamed.jpg)!important;
+}*/
+
+.itemcenter {
+  text-align: center;
+  font-size: 25px;
+  font-family: Times New Roman;
+}
+.img {
+  margin-bottom: -89px;
+  margin-left: -5px;
+  margin-top: -5px;
+}
+#slides_control > div{
+  height: 200px;
+}
+img{
+  margin:auto;
+  width: 400px;
+}
+#slides_control {
+  position:absolute;
+  width: 400px;
+  left:50%;
+  top:20px;
+ margin-left:-200px;
+}
+.text-docartion{
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+a:hover, a:visited, a:link, a:active {
+  text-decoration: none;
+}
+
+.controls {
+  margin-bottom: 10px;
+}
+
+.collapse-group {
+  padding: 10px;
+  border: 1px solid darkgrey;
+  margin-bottom: 10px;
+}
+
+.panel-title .trigger:before {
+  content: '\e082';
+  font-family: 'Glyphicons Halflings';
+  vertical-align: text-bottom;
+}
+
+.panel-title .trigger.collapsed:before {
+  content: '\e081';
+}
+.center {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.headerbar {
+  padding-top: 250px;
+}
+
+.tablogin {
+  margin-top: 38px;
+}
+
+.custom-dark {
+  background-color: red!important; // for bg color
+}
+
+.round-button {
+  width: 25%;
+}
+
+.round-button-circle {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 100%;
+  border-radius: 50%;
+  border: 4px solid #cfdcec;
+  overflow: hidden;
+  display: block;
+  float: left;
+  width: 80%;
+  padding-top: 20%;
+  padding-bottom: 25%;
+  line-height: 1em;
+  margin-top: -0.5em;
+  text-align: center;
+  color: #e2eaf3;
+  font-family: Verdana;
+  font-size: 1em;
+  font-weight: bold;
+  text-decoration: none;
+  background: #4679BD;
+  box-shadow: 0 0 3px gray;
+}
+.button.button-positive {
+    border-color: transparent;
+    background-color: #A52A2A;
+    color: #fff;
+}
+.round-button-circle:hover {
+  background: #30588e;
+}
+.span-margin{
+   margin-left:-60px;
+}
+.left-title{
+      left: 175px;
+}
+.button {
+    /* margin-left: 12px; */
+    border-color: transparent;
+    background-color: #f8f8f8;
+    color: #444;
+    position: relative;
+    display: inline-block;
+    /* margin: 0; */
+    padding: 0 12px;
+    /* min-width: 500px; */
+    /* min-height: 47px; */
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    vertical-align: top;
+    text-align: center;
+    text-overflow: ellipsis;
+    font-size: 16px;
+    line-height: 42px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.style-100{
+  display: grid !important;
+}
+
+.ion-android-share{
+    font-size: 41px;
+    cursor: pointer;
+}
+.buttons.buttons-right{
+    position: absolute;
+   top: -12px;  
+  right: 5px;
+    bottom: 5px;
+}
+
+.bar-stable .button.button-clear {
+    border-color: transparent;
+    background: none;
+    box-shadow: none;
+    color: #444;
+    font-size: 17px;
+    margin-top: 0px;
+}
+
+@-webkit-keyframes colors {  
+  0% { background-color: red; }
+  50% { background-color: Crimson  ; }
+  100% { background-color: DodgerBlue ; }
+}
+
+.blinkdiv {
+    background-color: black;
+    -webkit-animation-name: colors;  
+    -webkit-animation-iteration-count: infinite;  
+    -webkit-animation-duration: 5s; 
+} 
+.centSona{
+      width: 14% ;
+    margin-left: 190px;
+        margin-bottom: -32px;
+
+}
+.nasi7a{
+      width: 14% ;
+    margin-left: 190px;
+    margin-bottom: -32px;
+}
+.sonanMansia{
+      width: 14% ;
+    margin-left: 190px;
+        margin-bottom: -32px;
+}
+.ta3amolMa3aZawja{
+      width: 14% ;
+    margin-left: 190px;
+        margin-bottom: -35px;
+}
+.text-docartion {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+     font-weight: 600; 
+    line-height: 26.4px;
+}
